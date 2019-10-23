@@ -1,0 +1,86 @@
+{
+  "AREAS": {
+    "YOUR_ACCESS_AREAS": "Ihre Zutrittsbereiche"
+  },
+  "ASSISTANCE": {
+    "ALERT_CLOSE": "Schliessen",
+    "ALERT_MESSAGE": "Ein zugewiesener Raum ist notwendig, um Hilfe anzufordern",
+    "ALERT_TITLE": "Kein Raum zugewiesen",
+    "THERE_ARE_NO_REQUESTS_AVAILABLE_AT_THIS_TIME": "Zur Zeit liegen keine Anforderungen vor",
+    "WHAT_CAN_WE_HELP_YOU_WITH": "Wie können wir behilflich sein",
+    "YOUR_RECENTS_REQUESTS": "Letzte Anforderungen"
+  },
+  "COMMON": {
+    "SUBMIT": "Eingeben"
+  },
+  "ERRORS": {
+    "EXPIRED_QR_MESSAGE": "Ihr Aufenthalt bei uns ist abgelaufen und wir hoffen sehr, Sie haben Ihren Aufenthalt in unserem Hotel genossen. Wir freuen uns darauf, Sie bald wieder bei uns als Gast begrüssen zu dürfen. Für weitere Informationen wenden Sie sich bitte an unsere Rezeption. Ab jetzt werden Sie an die QR-Anzeige weitergeleitet.",
+    "EXPIRED_QR_TITLE": "Aufenthalt abgelaufen",
+    "RETRY": "Erneut versuchen",
+    "THE_PHONE_NUMBER_INTRODUCED_DO_NOT_MATCH_THE_PHONE_NUMBER_OF_THE_CHECKIN": "Die Telefonnummer stimmt nicht mit der Nummer beim Checkin überein",
+    "WRONG_PHONE_NUMBER": "Falsche Telefonnummer",
+    "WRONG_QR_SUBTITLE": "QR-Code mit ungültigem Format",
+    "WRONG_QR_SUBTITLE_TRY_AGAIN": "Fehler im QR-Code. Versuchen Sie es erneut.",
+    "WRONG_QR_TITLE": "Falscher QR-Code",
+    "SECURITY_HEADER": "Sicherheitsproblem",
+    "SECURITY_DESCRIPTION": "Aktivieren Sie die Anzeigesperre auf Ihrem Gerät. Diese App kann ohne nicht sicher bedient werden."
+  },
+  "EULA": {
+    "AGREE": "Einverstanden",
+    "DISAGREE": "Nicht einverstanden",
+    "DISAGREE_EULA": "Sie müssen sich einverstanden erklären, um mit Hotel.Me weiterfahren zu können"
+  },
+  "FOOTER": {
+    "ASSISTANCE": "Hilfe",
+    "OPEN": "Öffnen"
+  },
+  "HOME": {
+    "ACCESS_AREAS": "Zutrittsbereiche",
+    "BLINDS": "Jalousien",
+    "CONFIGURATION": "Konfiguration",
+    "DOWN": "Ab",
+    "LIGHTING": "Beleuchtung",
+    "OFF": "Aus",
+    "ON": "Ein",
+    "SCENARIOS": "Szenarien",
+    "TEMPERATURE": "Temperatur",
+    "UP": "Auf"
+  },
+  "ROOM": {
+    "DO_NOT_DISTURB": "Bitte nicht stören",
+    "ROOM": "Raum",
+    "ROOM_STATUS": "Raumzustand"
+  },
+  "SCANNER": {
+    "ACCEPT": "Akzeptieren",
+    "ENTER_YOUR_PHONE_NUMBER_WITH_THE_FORMAT": "Geben Sie die Telefonnummer im folgenden Format ein",
+    "EXAMPLE": "Beispiel",
+    "INTERNATIONAL_CODE": "Internationaler Code",
+    "PHONE_NUMBER": "Telefonnummer",
+    "PLACE_A_BARCODE_INSIDE_THE_SCAN_AREA": "Strichcode im Scan-Bereich platzieren"
+  },
+  "SETTINGS": {
+    "BACK": "Zurück",
+    "CANCEL": "Abbrechen",
+    "COPYRIGHT_NOTICE": "Urheberrechtshinweis",
+    "DATA_PRIVACY": "Datenprivatsphäre",
+    "FAN_SPEED": "Ventilatorstufe",
+    "IMPRINT": "Ausgabe",
+    "LANGUAGE": "Sprache",
+    "LICENSE_TERMS": "Lizenzbestimmungen",
+    "LIGHTING_SCENARIOS": "Beleuchtungsszenarien",
+    "OFF": "Aus",
+    "OK": "OK",
+    "SCAN_QR": "QR scannen",
+    "SECURITY_DISCLAIMER": "Haftungsausschluss",
+    "SETTINGS": "Einstellungen",
+    "LIGHTS": "Beleuchtung",
+    "SPEED_1": "Tief",
+    "SPEED_2": "Mittel",
+    "SPEED_3": "Hoch"
+  },
+  "VALIDATIONS": {
+    "GUEST_PHONE_NUMBER_IS_REQUIRED": "Gästetelefonnummer erforderlich",
+    "PHONE_NUMBER_MUST_HAVE_INT_CODE_AND_9_NUMBERS_AT_LEAST": "Telefonnummer muss +[Internationaler Code] und min. 9 Ziffern enthalten"
+  }
+}

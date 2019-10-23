@@ -1,0 +1,69 @@
+{
+  "COMMON": {
+    "CANCEL": "Abbrechen",
+    "FILTERS": "Filter",
+    "NOT_DISTURB": "Bitte nicht stören",
+    "OK": "OK",
+    "SAVE": "Speichern"
+  },
+  "ERRORS": {
+    "SECURITY_HEADER": "Sicherheitsproblem",
+    "SECURITY_DESCRIPTION": "Aktivieren Sie die Anzeigesperre auf Ihrem Gerät. Diese App kann ohne nicht sicher bedient werden."
+  },
+  "FILTERS": {
+    "CLEAR": "Filter entfernen",
+    "GROUPS": "Gruppen",
+    "OCCUPANCY": "Belegung",
+    "READY": "Startbereit",
+    "STATUS": "Status",
+    "TYPE_OF_TASK": "Task-Typ"
+  },
+  "LOGIN": {
+    "LOGIN": "Anmeldung",
+    "PASSWORD": "Passwort",
+    "QR_CONFIG": "QR-Konfiguration",
+    "USERNAME": "Benutzername"
+  },
+  "SCANNER": {
+    "NOT_VALID": "Ungültiges QR-Format",
+    "TRY_AGAIN": "Versuchen Sie es erneut"
+  },
+  "SPACES": {
+    "ASCENDING": "Aufsteigend",
+    "AREA": "Objekt",
+    "CANCEL": "Abbrechen",
+    "CONFIRM_CANCEL": "Abbrechen",
+    "CONFIRM_MESSAGE": "Möchten Sie die Türe öffnen",
+    "CONFIRM_OK": "Öffnen",
+    "CONFIRM_TITLE": "Gast im Raum",
+    "DESCENDING": "Absteigend",
+    "DUTIES": "{{value}} Aufgaben",
+    "FINISHED": "{{finished}}/{{total}} Aufgaben",
+    "FINISH_BUTTON": "Beenden",
+    "GENERAL_DONE": "{{rooms}} Räume, {{suites}} Suites und {{areas}} Bereiche fertig",
+    "GENERAL_PENDING": "{{rooms}} Räume, {{suites}} Suites und {{areas}} Bereiche ausstehend",
+    "NO_DUTIES": "Keine Aufgaben zugewiesen",
+    "NO_DUTIES_DETAILS": "Ihnen wurden keine Aufgaben zugewiesen",
+    "OFF": "Aus",
+    "OK": "OK",
+    "ON": "Ein",
+    "OPEN": "Öffnen",
+    "ROOM": "Raum",
+    "SORTING": "Sortieren nach",
+    "START_BUTTON": "Dienst starten",
+    "SUITE": "Suite"
+  },
+  "TASKS": {
+    "ADD": "Neuen Task hinzufügen",
+    "ASSIGN_TO_TEAM": "Zum Team zuweisen",
+    "CHARS_LEFT": "{{value}} Zeichen übrig",
+    "DONE": "Fertig",
+    "DUTIES": "{{value}} Aufgaben",
+    "GUEST_IN_ROOM": "Gast im Raum",
+    "NEW": "+ Neuen Task hinzufügen",
+    "PENDING": "Ausstehend",
+    "STATE": "Zustand",
+    "TYPE_OF_TASK": "Task-Typ",
+    "VERIFIED": "Überprüft"
+  }
+}

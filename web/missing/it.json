@@ -1,0 +1,15 @@
+{
+  "BEACONS": {
+    "MISSING_ZONE": "A zone must be supplied"
+  },
+  "BOOKINGS": {
+    "CHECK-OUT_ROOM": "Check out room",
+    "CHECK-OUT_THIS": "Check out this guest"
+  },
+  "COMMON": {
+    "CHECK-OUT": "Check out"
+  },
+  "UI_CONFIGURATION": {
+    "UI_CONFIGURATION": "UI configuration"
+  }
+}

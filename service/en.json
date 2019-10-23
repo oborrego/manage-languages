@@ -1,0 +1,69 @@
+{
+  "COMMON": {
+    "CANCEL": "Cancel",
+    "FILTERS": "Filters",
+    "NOT_DISTURB": "Do not disturb",
+    "OK": "Ok",
+    "SAVE": "Save"
+  },
+  "ERRORS": {
+    "SECURITY_HEADER": "Security problem",
+    "SECURITY_DESCRIPTION": "Please enable the screen lock on your device. This app cannot operate securely without it."
+  },
+  "FILTERS": {
+    "CLEAR": "Clear filters",
+    "GROUPS": "Groups",
+    "OCCUPANCY": "Occupancy",
+    "READY": "Ready to start",
+    "STATUS": "Status",
+    "TYPE_OF_TASK": "Type of task"
+  },
+  "LOGIN": {
+    "LOGIN": "Login",
+    "PASSWORD": "Password",
+    "QR_CONFIG": "QR Configuration",
+    "USERNAME": "Username"
+  },
+  "SCANNER": {
+    "NOT_VALID": "QR format is not valid.",
+    "TRY_AGAIN": "Try again"
+  },
+  "SPACES": {
+    "ASCENDING": "Ascending",
+    "AREA": "Area",
+    "CANCEL": "Cancel",
+    "CONFIRM_CANCEL": "Cancel",
+    "CONFIRM_MESSAGE": "Are you sure you want to open the door?",
+    "CONFIRM_OK": "Open",
+    "CONFIRM_TITLE": "Guest in room",
+    "DESCENDING": "Descending",
+    "DUTIES": "{{value}} duties",
+    "FINISHED": "{{finished}}/{{total}} duties",
+    "FINISH_BUTTON": "Finish",
+    "GENERAL_DONE": "{{rooms}} rooms, {{suites}} suites and {{areas}} areas done",
+    "GENERAL_PENDING": "{{rooms}} rooms, {{suites}} suites and {{areas}} areas pending",
+    "NO_DUTIES": "No duties assigned",
+    "NO_DUTIES_DETAILS": "You have no duties assigned",
+    "OFF": "Off",
+    "OK": "OK",
+    "ON": "On",
+    "OPEN": "Open",
+    "ROOM": "Room",
+    "SORTING": "Sort by",
+    "START_BUTTON": "Start service",
+    "SUITE": "Suite"
+  },
+  "TASKS": {
+    "ADD": "Add new task",
+    "ASSIGN_TO_TEAM": "Assign to team",
+    "CHARS_LEFT": "{{value}} characters left",
+    "DONE": "Done",
+    "DUTIES": "{{value}} duties",
+    "GUEST_IN_ROOM": "Guest in room",
+    "NEW": "+ Add new task",
+    "PENDING": "Pending",
+    "STATE": "State",
+    "TYPE_OF_TASK": "Type of task",
+    "VERIFIED": "Verified"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "AREAS": {
+    "YOUR_ACCESS_AREAS": "Sus áreas de acceso"
+  },
+  "ASSISTANCE": {
+    "ALERT_CLOSE": "Cerrar",
+    "ALERT_MESSAGE": "Es necesario tener asignada habitación para solicitar asistencia",
+    "ALERT_TITLE": "Habitación no asignada",
+    "THERE_ARE_NO_REQUESTS_AVAILABLE_AT_THIS_TIME": "No hay solicitudes disponibles",
+    "WHAT_CAN_WE_HELP_YOU_WITH": "¿Cómo podemos ayudarle?",
+    "YOUR_RECENTS_REQUESTS": "Sus últimas solicitudes"
+  },
+  "COMMON": {
+    "SUBMIT": "Enviar"
+  },
+  "ERRORS": {
+    "EXPIRED_QR_MESSAGE": "Su estancia ha terminado y esperamos que haya disfrutado su experiencia en nuestro hotel. Deseamos verle de nuevo pronto. Si necesita información adicional estaremos encantado de atenderle en Recepción. Va ser redirigido a la página donde puede escanear su código QR.",
+    "EXPIRED_QR_TITLE": "Estancia terminada",
+    "RETRY": "Reintentar",
+    "THE_PHONE_NUMBER_INTRODUCED_DO_NOT_MATCH_THE_PHONE_NUMBER_OF_THE_CHECKIN": "El número de teléfono introducido no se corresponde con el del check-in",
+    "WRONG_PHONE_NUMBER": "Número de teléfono incorrecto",
+    "WRONG_QR_SUBTITLE": "El código QR no tiene un formato válido",
+    "WRONG_QR_SUBTITLE_TRY_AGAIN": "Hay un error con el código QR. Por favor inténtelo de nuevo",
+    "WRONG_QR_TITLE": "Código QR incorrecto",
+    "SECURITY_HEADER": "Problema de seguridad",
+    "SECURITY_DESCRIPTION": "Por favor habilite el bloqueo de pantalla en su dispositivo. Esta app no puede funcionar con seguridad sin ello."
+  },
+  "EULA": {
+    "AGREE": "Acepto",
+    "DISAGREE": "No acepto",
+    "DISAGREE_EULA": "Debe aceptar si desea continuar usando Hotel.Me"
+  },
+  "FOOTER": {
+    "ASSISTANCE": "Asistencia",
+    "OPEN": "Abrir"
+  },
+  "HOME": {
+    "ACCESS_AREAS": "Áreas de acceso",
+    "BLINDS": "Cortinas",
+    "CONFIGURATION": "Configuración",
+    "DOWN": "Abajo",
+    "LIGHTING": "Iluminación",
+    "OFF": "Off",
+    "ON": "On",
+    "SCENARIOS": "Escenarios",
+    "TEMPERATURE": "Temperatura",
+    "UP": "Arriba"
+  },
+  "ROOM": {
+    "DO_NOT_DISTURB": "No molestar",
+    "ROOM": "Habitación",
+    "ROOM_STATUS": "Estado de habitación"
+  },
+  "SCANNER": {
+    "ACCEPT": "Aceptar",
+    "ENTER_YOUR_PHONE_NUMBER_WITH_THE_FORMAT": "Introduzca el número de teléfono con el formato",
+    "EXAMPLE": "Ejemplo",
+    "INTERNATIONAL_CODE": "Código internacional",
+    "PHONE_NUMBER": "Número de teléfono",
+    "PLACE_A_BARCODE_INSIDE_THE_SCAN_AREA": "Sitúe un código dentro del área de escaneo"
+  },
+  "SETTINGS": {
+    "BACK": "Atrás",
+    "CANCEL": "Cancelar",
+    "COPYRIGHT_NOTICE": "Aviso de Copyright",
+    "DATA_PRIVACY": "Privacidad de datos",
+    "FAN_SPEED": "Velocidad de ventilador",
+    "IMPRINT": "Impresión",
+    "LANGUAGE": "Idioma",
+    "LICENSE_TERMS": "Condiciones de la licencia",
+    "LIGHTING_SCENARIOS": "Escenarios de iluminación",
+    "OFF": "Off",
+    "OK": "OK",
+    "SCAN_QR": "Escanear QR",
+    "SECURITY_DISCLAIMER": "Descargo de responsabilidad de seguridad",
+    "SETTINGS": "Configuración",
+    "LIGHTS": "Luces",
+    "SPEED_1": "Baja",
+    "SPEED_2": "Media",
+    "SPEED_3": "Alta"
+  },
+  "VALIDATIONS": {
+    "GUEST_PHONE_NUMBER_IS_REQUIRED": "Se necesita número de teléfono del huésped",
+    "PHONE_NUMBER_MUST_HAVE_INT_CODE_AND_9_NUMBERS_AT_LEAST": "El número de teléfono debe tener +[Código internacional] y 9 números al menos"
+  }
+}

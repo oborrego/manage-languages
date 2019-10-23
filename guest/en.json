@@ -1,0 +1,86 @@
+{
+  "AREAS": {
+    "YOUR_ACCESS_AREAS": "Your access areas"
+  },
+  "ASSISTANCE": {
+    "ALERT_CLOSE": "Close",
+    "ALERT_MESSAGE": "An assigned room is needed in order to request assistance.",
+    "ALERT_TITLE": "No room assigned",
+    "THERE_ARE_NO_REQUESTS_AVAILABLE_AT_THIS_TIME": "There are no requests available at this time",
+    "WHAT_CAN_WE_HELP_YOU_WITH": "What can we help you with",
+    "YOUR_RECENTS_REQUESTS": "Your recents requests"
+  },
+  "COMMON": {
+    "SUBMIT": "Submit"
+  },
+  "ERRORS": {
+    "EXPIRED_QR_MESSAGE": "Your stay is expired and we hope you enjoyed your experience in our hotel. We very much looking forward to have you back as our guest. If you need additional information we will be happy to welcome you at the reception. From now on you will be redirected to the scan QR screen.",
+    "EXPIRED_QR_TITLE": "Expired stay",
+    "RETRY": "Retry",
+    "THE_PHONE_NUMBER_INTRODUCED_DO_NOT_MATCH_THE_PHONE_NUMBER_OF_THE_CHECKIN": "The phone number introduced do not match the phone number of the check-in",
+    "WRONG_PHONE_NUMBER": "Wrong phone number",
+    "WRONG_QR_SUBTITLE": "The QR code has not a valid format",
+    "WRONG_QR_SUBTITLE_TRY_AGAIN": "There is an error with the QR code. Please try again",
+    "WRONG_QR_TITLE": "Wrong QR code",
+    "SECURITY_HEADER": "Security problem",
+    "SECURITY_DESCRIPTION": "Please enable the screen lock on your device. This app cannot operate securely without it."
+  },
+  "EULA": {
+    "AGREE": "Agree",
+    "DISAGREE": "Disagree",
+    "DISAGREE_EULA": "You must agree if you want to continue using Hotel.Me"
+  },
+  "FOOTER": {
+    "ASSISTANCE": "Assistance",
+    "OPEN": "Open"
+  },
+  "HOME": {
+    "ACCESS_AREAS": "Access areas",
+    "BLINDS": "Blinds",
+    "CONFIGURATION": "Configuration",
+    "DOWN": "Down",
+    "LIGHTING": "Lighting",
+    "OFF": "Off",
+    "ON": "On",
+    "SCENARIOS": "Scenarios",
+    "TEMPERATURE": "Temperature",
+    "UP": "Up"
+  },
+  "ROOM": {
+    "DO_NOT_DISTURB": "Do not disturb",
+    "ROOM": "Room",
+    "ROOM_STATUS": "Room status"
+  },
+  "SCANNER": {
+    "ACCEPT": "Accept",
+    "ENTER_YOUR_PHONE_NUMBER_WITH_THE_FORMAT": "Enter your phone number with the format",
+    "EXAMPLE": "Example",
+    "INTERNATIONAL_CODE": "International code",
+    "PHONE_NUMBER": "Phone number",
+    "PLACE_A_BARCODE_INSIDE_THE_SCAN_AREA": "Place a barcode inside the scan area"
+  },
+  "SETTINGS": {
+    "BACK": "Back",
+    "CANCEL": "Cancel",
+    "COPYRIGHT_NOTICE": "Copyright notice",
+    "DATA_PRIVACY": "Data privacy",
+    "FAN_SPEED": "Fan speed",
+    "IMPRINT": "Imprint",
+    "LANGUAGE": "Language",
+    "LICENSE_TERMS": "License terms",
+    "LIGHTING_SCENARIOS": "Lighting scenarios",
+    "OFF": "Off",
+    "OK": "OK",
+    "SCAN_QR": "Scan QR",
+    "SECURITY_DISCLAIMER": "Security disclaimer",
+    "SETTINGS": "Settings",
+    "LIGHTS": "Lights",
+    "SPEED_1": "Low",
+    "SPEED_2": "Medium",
+    "SPEED_3": "High"
+  },
+  "VALIDATIONS": {
+    "GUEST_PHONE_NUMBER_IS_REQUIRED": "Guest phone number is required",
+    "PHONE_NUMBER_MUST_HAVE_INT_CODE_AND_9_NUMBERS_AT_LEAST": "Phone number must have +[International code] and 9 numbers at least"
+  }
+}
